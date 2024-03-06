@@ -12,7 +12,7 @@
 
 ### My Browser 
 
-![Edge](https://img.shields.io/badge/edge--0078D6.svg?style=for-the-badge&logo=microsoftedge&logoColor=0078D6)
+![Chrome](https://img.shields.io/badge/chrome--4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 
 ---
 
