@@ -10,9 +10,9 @@
 
 ---
 
-### My Browser 
+### Browser 
 
-![Chrome](https://img.shields.io/badge/chrome--4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
+![Chrome](https://img.shields.io/badge/chrome--4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=4285F4) ![Edge](https://img.shields.io/badge/edge--4285F4.svg?style=for-the-badge&logo=Microsoft-edge&logoColor=4285F4)
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ### OS
-![Android](https://img.shields.io/badge/Android-9-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84) ![Debian](https://img.shields.io/badge/Debian-11-D70A53?style=for-the-badge&logo=debian&logoColor=D70A53) ![Windows](https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=windows&logoColor=blue) 
+![Android](https://img.shields.io/badge/Android-14-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84) ![Debian](https://img.shields.io/badge/Debian-11-D70A53?style=for-the-badge&logo=debian&logoColor=D70A53) ![Windows](https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=windows&logoColor=blue) 
 
 ---
 ### Trophies
