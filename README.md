@@ -22,7 +22,7 @@
 ---
 
 ### OS
-![Android](https://img.shields.io/badge/Android-14-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84) ![Debian](https://img.shields.io/badge/Debian-11-D70A53?style=for-the-badge&logo=debian&logoColor=D70A53) ![Windows](https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=windows&logoColor=blue) 
+![Android](https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84) ![Debian](https://img.shields.io/badge/Debian-11-D70A53?style=for-the-badge&logo=debian&logoColor=D70A53) ![Windows](https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=windows&logoColor=blue) 
 
 ---
 ### Trophies
